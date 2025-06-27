@@ -1,0 +1,5 @@
+pycozmo
+requests
+Pillow
+numpy
+TTS
