@@ -289,5 +289,5 @@ class CozmoEasy:
             print("🧹 Cleaned up temporary files")
         self._wait(2)
 '''
-#ELEVENLABS_API_KEY = "sk_3ba60f2aa702b86eb745688991df2834b8494609ef871652"
+#ELEVENLABS_API_KEY = ""
 #VOICE_ID = "iq1GS1mcjc63xtqTrsFh"
